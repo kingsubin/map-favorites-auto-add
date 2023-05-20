@@ -21,5 +21,3 @@
 - 실행
   - `node inex.js [복사한 id] [카카오맵 즐겨찾기 리스트 번호]` 
   - ex: `node index.js a177f827-32aa-44a7-8fa8-092d050c4891 2`
-
-![gif](https://github.com/kingsubin/map-favorites-auto-add/assets/60462865/baf89c2b-2f04-4688-9e9e-632be5a1797e)
